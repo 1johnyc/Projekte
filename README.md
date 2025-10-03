@@ -6,4 +6,4 @@ Datenverarbeitung und Speicherverwaltung zu entwickeln und nicht einfach auf fer
 
 Alle komplizierten Codezeilen wurden ausführlich kommentiert(Deutsch und Französisch) und erklärt, 
 um die Nachvollziehbarkeit zu gewährleisten und den Lernprozess zu unterstützen.
-Die Art und Weise wie ich diese Spiele entwickelt habe sind nicht eindeutig 
+Die Art und Weise wie ich diese Spiele entwickelt habe ist nicht eindeutig 
